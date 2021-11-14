@@ -6,7 +6,7 @@
 trigger:
 - main
 
-pool:
+pool: TestPipeline
   vmImage: ubuntu-latest
 
 variables:
